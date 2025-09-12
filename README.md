@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I’m **Jatin Soni**!  
 
-🎓 BCA Student | 💻 Aspiring Full Stack Developer | 🌐 Web & App Enthusiast
+🎓 BCA Student | 💻 Aspiring Java Full Stack Developer | 🌐 Web & App Enthusiast
 
 ---
 
